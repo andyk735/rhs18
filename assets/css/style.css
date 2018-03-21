@@ -153,20 +153,12 @@ ul{
     margin:0 !important;
 }
 
-/*
-Separator
-*/
+
 .separator {
     height: 3px;
     width: 127px;
     margin: 25px auto;
     background: #f38181;
-}
-.whiseparator {
-    height: 10px;
-    width: 127px;
-    margin: 20px auto;
-    background: url(../images/whiseparator.png) no-repeat;
 }
 
 .main_menu_bg{
@@ -183,7 +175,6 @@ Separator
 .main_menu_bg .navbar {}
 
 
-/*font-family class*/
 .monseratregular{
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
@@ -200,7 +191,7 @@ Separator
     width:100%;
     overflow: hidden;
 }
-/*heading title all area*/
+
 .head_title{
     margin-bottom:90px;
 }
@@ -211,7 +202,6 @@ Separator
     font-size:1rem;
 }
 
-/*home section*/
 .home{
     background: url(../images/homebg.jpg) no-repeat 100% 100%;
     background-size: cover;
@@ -239,8 +229,6 @@ Separator
     margin:0 auto;
 }
 
-
-/*service section css*/
 .border_devider{
     width:100%;
     height: 2px;
@@ -267,10 +255,6 @@ Separator
     float:right;
 }
 
-
-
-/* scrollup */
-
 .scrollup{
     width: 30px;
     height: 30px;
@@ -287,29 +271,5 @@ Separator
     -moz-transition: opacity .5s, background-color .5s;
     -webkit-transition: opacity .5s, background-color .5s;
 }
-
-.scrollup:hover {
-    background: #95e1d3;
-    opacity: 1;
-}
-
-.scrollup i {
-    font-size: 13px;
-    position: absolute;
-    opacity: 1;
-    color: #fff;
-    left: 50%;
-    top: 50%;
-    margin-top: -7px;
-    margin-left: -6px;
-    text-decoration: none;
-
-}
-
-
-
-
-
-
 
 
