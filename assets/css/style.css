@@ -828,27 +828,15 @@ input::-ms-input-placeholder {
     position: relative;
     background: #ffffff;
 }
-.main_service_area{}
-.service .single_service {
+.main_cost_area{}
+.service .single_cost {
     margin-bottom:30px;
     margin-top:20px;
     display: inline-block;
     width:100%;
 
 }
-
-.service .single_service .single_service_icon{
-    width: 15%;
-    float: left;
-    display: inline-block;
-    margin-right: 5%;
-}
-.service .single_service .single_service_icon i{
-    color:#95e1d3;
-    font-size:2rem;
-    margin-top: 10px;
-}
-.service .single_service .single_service_content{
+.service .single_cost .single_cost_content{
     width:80%;
     float:right;
 }
