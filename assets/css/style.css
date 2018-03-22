@@ -415,8 +415,8 @@ Separator
     position: relative;
     background: #ffffff;
 }
-.main_service_area{}
-.service .single_service {
+.main_cost_area{}
+.service .single_cost {
     margin-bottom:30px;
     margin-top:20px;
     display: inline-block;
@@ -424,18 +424,18 @@ Separator
 
 }
 
-.service .single_service .single_service_icon{
+.service .single_cost .single_cost_icon{
     width: 15%;
     float: left;
     display: inline-block;
     margin-right: 5%;
 }
-.service .single_service .single_service_icon i{
+.service .single_cost .single_cost_icon i{
     color:#95e1d3;
     font-size:2rem;
     margin-top: 10px;
 }
-.service .single_service .single_service_content{
+.service .single_cost .single_cost_content{
     width:80%;
     float:right;
 }
@@ -459,43 +459,6 @@ Separator
     bottom: -70px;
     z-index: 99;
 }
-
-/*doservice section css*/
-.doservice .main_doservice .single_doservice .single_doservice_img img{
-    width:100%;
-}
-.doservice .main_doservice .single_doservice .single_doservice_acording{}
-.doservice .main_doservice .single_doservice .single_doservice_acording .panel-default>.panel-heading {
-    color: #333;
-    background-color: transparent;
-    border-color: #ddd;
-}
-
-.panel-heading{
-    border-top-left-radius: 0px;
-    border-top-right-radius: 0px;
-    padding: 12px 15px;
-}
-.panel-group .panel {
-    border-radius: 0px;
-    margin-bottom: 20px;
-}
-.doservice .main_doservice .single_doservice .single_doservice_acording .panel-title>a {
-    color: #333333;
-    display:block;
-    text-transform: uppercase;
-}
-.doservice .main_doservice .single_doservice .single_doservice_acording .panel-title a i{
-    color: #3bd3ba;
-    font-size: 1.575rem;
-    display: inline-block;
-    margin-right: 15px;
-}
-.doservice .main_doservice .single_doservice .single_doservice_acording .panel-title a i.fa-chevron-down{
-    float:right;
-    margin-right: 0px;
-}
-
 
 /* scrollup */
 
