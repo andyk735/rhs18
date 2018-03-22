@@ -177,6 +177,105 @@ Separator
     background: #f38181;
 }
 
+/*section:nth-of-type(odd) {
+    background-color: #F9F9F9;
+}*/
+
+/*
+Extra height css
+*/
+.margin-top-20 {
+    margin-top: 20px;
+}
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+.margin-top-40 {
+    margin-top: 40px;
+}
+.margin-bottom-40 {
+    margin-bottom: 40px;
+}
+.margin-top-60 {
+    margin-top: 60px;
+}
+.margin-80 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.margin-bottom-60 {
+    margin-bottom: 60px;
+}
+.margin-top-80 {
+    margin-top: 80px;
+}
+.margin-bottom-80 {
+    margin-bottom: 80px;
+}
+.padding-top-20 {
+    padding-top: 1.33rem;
+}
+.padding-bottom-20 {
+    padding-bottom: 1.33rem;
+}
+.padding-top-40 {
+    padding-top: 2.66rem;
+}
+.padding-bottom-40 {
+    padding-bottom: 2.66rem;
+}
+.padding-top-60 {
+    padding-top: 5rem;
+}
+.padding-bottom-60 {
+    padding-bottom: 5rem;
+}
+.padding-bottom-0 {
+   padding-bottom: 0;
+}
+/*padding*/
+.padding-twenty {
+    padding: 10px 0;
+}
+.padding-fourty {
+    padding: 20px 0;
+}
+.padding-sixty {
+    padding: 30px 0;
+}
+.padding-eighty {
+    padding: 40px 0;
+}
+h1 span {
+    color: #5e9a28;
+    font-weight: 400;
+}
+
+/*for placeholder changes*/
+
+/*input::-webkit-input-placeholder {
+    color: #3bd3ba;
+}
+input::-moz-placeholder {
+    color: #3bd3ba;
+}
+input::-ms-input-placeholder {
+    color: #3bd3ba;
+}*/
+
+/*for image bg*/
+
+ 
+/*.img-bg{
+  background: url(../images/home-msg.jpg) no-repeat center top fixed;
+  background-size
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  overflow: hidden;
+
 /* navbar section */
 .menu-scroll {
     padding-top: 0px;
